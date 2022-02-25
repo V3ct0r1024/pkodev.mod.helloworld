@@ -1,4 +1,4 @@
-[![PKOdev.NET](https://pkodev.net/uploads/monthly_2021_11/pkodevlogo_full.png.9c0b058fcf0ebbfd09e443f272c3d328.png "PKOdev.NET")](http://pkodev.net "PKOdev.NET")
+[![PKOdev.NET](https://a.radikal.ru/a07/2202/b6/64077957c2ec.png "PKOdev.NET")](http://pkodev.net "PKOdev.NET")
 ## TOP/PKO/KOP mod: pkodev.mod.helloworld
 Hello world mod for **[PKOdev.NET mod loader](https://pkodev.net/topic/5757-mod-loading-system-for-server-and-client-pkodevnet-mod-loader/)**.
 
